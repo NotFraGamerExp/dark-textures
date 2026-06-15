@@ -94,18 +94,6 @@ Launch Roblox again to apply changes.
 
 ---
 
-## 📂 Project Structure
-Dark-Textures/
-├── textures/
-├── images/
-│ ├── banner.png
-│ ├── preview1.png
-│ ├── preview2.png
-│ └── preview3.png
-└── README.md
-
----
-
 ## ❤️ Support
 
 - ⭐ Star the repo  
